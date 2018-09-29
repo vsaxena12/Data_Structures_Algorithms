@@ -1,0 +1,8 @@
+README FILE:
+
+To run the code, make the use of make file.
+Command for make file:~$ make run
+
+To delete the object files and exe. files: make clean
+
+[make run] in the terminal will compile as well as execute the program. 

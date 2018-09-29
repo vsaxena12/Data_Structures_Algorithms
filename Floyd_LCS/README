@@ -1,0 +1,13 @@
+README FILE:
+
+To run the code, make the use of make file.
+
+make run_LCS -> Compile the code and create an executable file
+./saxena_varun_pa3_lcs str1 str2 -> To execute a file
+
+make run_Flyod -> Compile the code and create an executable file
+./saxena_varun_pa3_floyd -> To Exexute a file
+
+To delete the object files and exe. files: make clean_LCS and make clean_Flyod
+
+[make run] in the terminal will compile as well as execute the program. 

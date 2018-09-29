@@ -1,0 +1,7 @@
+README FILE:
+Name: VARUN SAXENA
+B-NUMBER: B00715343
+
+To run the code, use the make file.
+make run-> Compile and run the program
+make clean-> clean object files and executable file
